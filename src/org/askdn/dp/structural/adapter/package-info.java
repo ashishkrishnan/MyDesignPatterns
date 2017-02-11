@@ -1,4 +1,8 @@
 /**
- * Created by ashish on 11/2/17 under MyDesignPatterns.
+ * Sample code demonstrating the Adapter Pattern
+ *
+ * @author Ashish Krishnan
+ * @version 1.0
  */
 package org.askdn.dp.structural.adapter;
+
